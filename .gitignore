@@ -1,0 +1,28 @@
+Invoice-tracking-frontend/invoice-frontend-vue2.0-ts/.DS_Store
+Invoice-tracking-frontend/invoice-frontend-vue2.0-ts/node_modules/
+Invoice-tracking-frontend/invoice-frontend-vue2.0-ts/dist/
+
+# local env files
+Invoice-tracking-frontend/invoice-frontend-vue2.0-ts/.env.local
+Invoice-tracking-frontend/invoice-frontend-vue2.0-ts/.env.*.local
+
+# Log files
+Invoice-tracking-frontend/invoice-frontend-vue2.0-ts/npm-debug.log*
+Invoice-tracking-frontend/invoice-frontend-vue2.0-ts/yarn-debug.log*
+Invoice-tracking-frontend/invoice-frontend-vue2.0-ts/yarn-error.log*
+
+# Editor directories and files
+Invoice-tracking-frontend/invoice-frontend-vue2.0-ts/.idea
+Invoice-tracking-frontend/invoice-frontend-vue2.0-ts/.vscode
+Invoice-tracking-frontend/invoice-frontend-vue2.0-ts/*.suo
+Invoice-tracking-frontend/invoice-frontend-vue2.0-ts/*.ntvs*
+Invoice-tracking-frontend/invoice-frontend-vue2.0-ts/*.njsproj
+Invoice-tracking-frontend/invoice-frontend-vue2.0-ts/*.sln
+Invoice-tracking-frontend/invoice-frontend-vue2.0-ts/*.sw*
+
+# Backend not there yet
+Invoice-tracking-backend/**
+
+
+Invoice-tracking-frontend/invoice-frontend
+Invoice-tracking-frontend/invoice-frontend-ts
