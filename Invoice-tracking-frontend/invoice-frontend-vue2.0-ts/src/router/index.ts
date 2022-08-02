@@ -23,8 +23,13 @@ const routes: Array<RouteConfig> = [
   {
     path: "/workhours",
     name: "work-hours",
-     component: () => import("../views/WorkHoursView.vue")
-    // component: WorkHoursView
+    component: () => import("../views/WorkHoursView.vue")
+  },
+  {
+    path: "/manageinvoices",
+    name: "invoice-management",
+    component: () => import("../views/InvoiceManagementView.vue")
+
   }
 ];
 

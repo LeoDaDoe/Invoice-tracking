@@ -21,6 +21,9 @@
         <b-nav-item>
           <router-link to="/workhours">Work Hours</router-link>
         </b-nav-item>
+        <b-nav-item>
+          <router-link to="/manageinvoices">Manage invoices</router-link>
+        </b-nav-item>
       </b-nav>
     </b-navbar>
     <router-view class="container-fluid" />
